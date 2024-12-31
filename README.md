@@ -81,19 +81,19 @@
     </thead>
     <tbody>
         <tr>
-            <td>**蛇语 AI**</td>
+            <td>蛇语 AI</td>
             <td><a href="https://snakegpt.work" target="_blank">snakegpt.work</a></td>
             <td>GPT-4, GPT-3.5</td>
             <td>支持 MJ 绘图，中文优化</td>
         </tr>
         <tr>
-            <td>**GPT 猫中文站**</td>
+            <td>GPT 猫中文站</td>
             <td><a href="https://gptcat.net" target="_blank">gptcat.net</a></td>
             <td>GPT-4, GPT-o1</td>
             <td>支持语音视频对话</td>
         </tr>
         <tr>
-            <td>**熊猫 GPT**</td>
+            <td>熊猫 GPT</td>
             <td><a href="https://ai-panda.xyz/login?invite_code=34137c47" target="_blank">ai-panda.xyz</a></td>
             <td>GPT-4</td>
             <td>稳定快速，支持 API 调用</td>
