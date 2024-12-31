@@ -38,6 +38,7 @@
             background: #fff;
             border-radius: 10px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            text-align: center; /* 主体居中 */
         }
 
         /* 标题样式 */
@@ -51,8 +52,10 @@
             font-size: 1.8rem;
             color: #0056b3;
             margin-top: 30px;
+            margin-bottom: 15px;
             border-bottom: 2px solid #ddd;
             padding-bottom: 5px;
+            text-align: center;
         }
         h2::before {
             content: "📌 ";
@@ -62,15 +65,18 @@
             font-size: 1.5rem;
             margin-top: 20px;
             color: #0073e6;
+            text-align: center;
         }
 
         /* 目录样式 */
         ul {
-            padding-left: 20px;
+            padding-left: 0;
+            list-style: none; /* 去掉列表符号 */
+            text-align: center;
         }
         ul li {
-            list-style: none;
-            margin: 5px 0;
+            display: inline-block; /* 列表水平排列 */
+            margin: 5px 10px;
         }
         ul li a {
             text-decoration: none;
@@ -93,7 +99,7 @@
         }
         table th, table td {
             padding: 10px;
-            text-align: left;
+            text-align: center; /* 表格居中对齐 */
             border: 1px solid #ddd;
         }
         table th {
@@ -135,10 +141,12 @@
         blockquote {
             font-size: 1.2rem;
             color: #666;
-            margin: 20px 0;
+            margin: 20px auto;
             padding: 10px 20px;
             background: #f2f2f2;
             border-left: 5px solid #0073e6;
+            max-width: 80%;
+            text-align: center;
         }
 
         /* 底部样式 */
