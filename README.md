@@ -1,6 +1,6 @@
 <h1>【ChatGPT 中文版】国内访问完全指南（支持GPT-4，无需翻墙）【2025持续更新】</h1>
 
-<p><strong>更新时间：</strong>2025/02/08</p>
+<p><strong>更新时间：</strong>2025/02/13</p>
 
 <p><strong>全面体验 ChatGPT 中文版</strong>，无需翻墙，支持 GPT-4 和多功能应用！  
 本指南为用户提供了一站式的 <strong>ChatGPT 中文版使用指南</strong>，涵盖国内可用的 <strong>镜像站点推荐</strong>、<strong>官网使用教程</strong>，以及常见问题的详细解答，帮助您快速上手 ChatGPT。</p>
