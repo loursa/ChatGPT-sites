@@ -22,7 +22,7 @@
 ---
 
 <h2 id="what-is-chatgpt-cn">🔍 什么是 ChatGPT 中文版？</h2>
-<p>**ChatGPT 中文版** 是 OpenAI 开发的 ChatGPT 模型的本地化版本，通过国内镜像站优化中文体验，使用户无需翻墙即可快速访问。</p>
+<p><br/>ChatGPT 中文版<br/> 是 OpenAI 开发的 ChatGPT 模型的本地化版本，通过国内镜像站优化中文体验，使用户无需翻墙即可快速访问。</p>
 <p>它的核心特点包括：</p>
 <ul>
     <li><strong>中文支持：</strong>针对中文对话场景深度优化，理解更准确。</li>
